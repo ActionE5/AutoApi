@@ -1,5 +1,5 @@
 #创建系列api，每天调用一次
-name: Run Api.Write
+name: Api.Write
 
 on: 
   release:
